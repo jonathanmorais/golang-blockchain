@@ -1,1 +1,1 @@
-# golang-blockchain
+# simple-python-blockchain
